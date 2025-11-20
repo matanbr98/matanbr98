@@ -12,6 +12,12 @@ I enjoy working on **systems programming, backend logic, data & SQL, and compute
 
 ---
 
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/matan-bracha/  
+- GitHub: https://github.com/matanbr98
+
+---
+
 ## 🧩 Selected Academic Projects
 
 - **ASCII Art Image Converter (C / C++)** – Converts images into ASCII art using configurable character sets and resolution, with console and HTML output.
@@ -21,9 +27,3 @@ I enjoy working on **systems programming, backend logic, data & SQL, and compute
 - **Markov Chain Tweet Generator (C)** – Text generator that learns from a corpus and produces new tweets using Markov Chains, dynamic memory, and file-based input.
 - **Python Image Editor** – Image-processing toolkit using only Python lists (no NumPy): grayscale, blur, resize (bilinear interpolation), rotation, edge detection, and quantization.
 - **SQL Analytics on Knesset Data (SQL)** – Advanced analytical queries using joins, aggregation, subqueries, and recursive CTEs on a political/members database.
-
----
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/matan-bracha/  
-- GitHub: https://github.com/matanbr98
